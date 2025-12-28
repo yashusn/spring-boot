@@ -1,0 +1,41 @@
+TOTAL NOTICE FILES FOUND: 3
+
+================================================================================
+SOURCE FILE: .\all_notices.txt
+
+================================================================================
+TOTAL NOTICE FILES FOUND: 1
+
+================================================================================
+SOURCE FILE: .\buildSrc\src\main\resources\NOTICE.txt
+
+================================================================================
+Spring Boot ${version}
+Copyright (c) 2012-2025 VMware, Inc.
+
+This product is licensed to you under the Apache License, Version 2.0
+(the "License"). You may not use this product except in compliance with
+the License.
+================================================================================
+
+================================================================================
+
+================================================================================
+SOURCE FILE: .\notices.txt
+
+================================================================================
+test
+test2
+================================================================================
+
+================================================================================
+SOURCE FILE: .\buildSrc\src\main\resources\NOTICE.txt
+
+================================================================================
+Spring Boot ${version}
+Copyright (c) 2012-2025 VMware, Inc.
+
+This product is licensed to you under the Apache License, Version 2.0
+(the "License"). You may not use this product except in compliance with
+the License.
+================================================================================
